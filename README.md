@@ -1,3 +1,5 @@
-# Hi 👋, this is Allen
+<div align="center">
 
-**Currently studying at university - exploring different facets in both software and life in general**
+# Hi, welcome! You have found my GitHub page.
+
+**Currently studying at university - exploring different facets of both software and life in general**
